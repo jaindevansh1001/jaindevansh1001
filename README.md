@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Devansh Jain</h1>
-<h3 align="center">A passionate learner from India</h3>
+<h1 align="center">Hi, I'm Devansh Jain</h1>
+<h3 align="center">A passionate learner from India. Always eager to learn and take on new challanges in tech world.</h3>
 
-- 🔭 I’m currently studying in **National Institute of Technology Delhi**
+- 🔭 I’m currently studying at **National Institute of Technology Delhi**
 
 - 🔭 I’m currently working on **App Developement**
+
+- 🔭 I’m currently learning **Data Structures and Algorithms**
+
+- 🔭All of my projects are available at [jdevansh1001](jdevansh1001)
 
 - 📫 How to reach me **jdevansh2003@gmail.com**
 
